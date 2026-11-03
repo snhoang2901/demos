@@ -26,7 +26,7 @@ Setup takes about 15 minutes.
 
 ## Step 1: Create the agent
 
-1. Open Microsoft 365 Copilot, Click on Plug-ins and select **New agent**.
+1. Open Microsoft 365 Copilot, Click on Plugins and select **New agent**.
 2. Paste in the fields from Step 2.
 
 ## Step 2: Paste these fields
