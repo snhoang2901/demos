@@ -1,0 +1,96 @@
+CUSTOMER PROPOSAL TEMPLATE
+Knowledge file for the "Ceco Proposal Builder" Copilot agent.
+
+PURPOSE
+The builder sends this proposal to their customer. It is built from a Ceco Customer Proposal Report (CPT)
+exported from myPortal, plus the builder's own scope and prices. Executive readers should find the total,
+the schedule and the decisions they need to make on page 1.
+
+PLACEHOLDER CONVENTION
+Anything not found in the CPT or given by the user appears in square brackets, for example
+[Builder price - foundations] or [Not stated in CPT - confirm]. Never fill a placeholder with a guess.
+
+LENGTH
+Sections 1 to 7 should be about 5 pages. Technical detail goes in the Appendix.
+
+======================================================================
+COVER / LETTERHEAD
+  [Builder logo - official file from the builder's brand kit]
+  [Builder legal name] - [Builder address / phone / website as provided]
+  PROPOSAL FOR: [Customer name]          PROJECT: [Project title from CPT]
+  Date: [date]                           Valid until: [as stated in CPT, otherwise placeholder]
+  Steel building package by Ceco Building Systems
+
+======================================================================
+1. AT A GLANCE (must fit on one page)
+  - Project and location
+  - Prepared for / prepared by
+  - Total investment: Ceco package (exactly as CPT, with page) + builder services (user-supplied) = total
+  - What's included, in one sentence
+  - Key dates (delivery / schedule) as stated
+  - Decisions needed: [count], with a pointer to Section 5
+  - Proposal validity
+
+2. INVESTMENT
+  Table: Line | Provided by | Amount | Source
+    Ceco steel building package     | Ceco       | [exact CPT amount] | CPT p.[n]
+    [Builder line, e.g. Foundations] | [Builder] | [user amount]      | Builder
+    ...
+    Total                            |            | [sum of the lines above, arithmetic shown]
+  Payment terms, credit terms, taxes and freight: only as stated in the CPT or by the user; otherwise list
+  them as open items.
+
+3. SCOPE - WHO PROVIDES WHAT
+  Three columns: Ceco provides | [Builder] provides | Not included
+  - Ceco column: from the CPT only (building systems, wall/roof panels, accessories as listed).
+  - Builder column: from the user only.
+  - Not included: exclusions stated in the CPT or by the user. If none are stated, write
+    "Exclusions not stated in CPT - confirm" and add it to Section 5.
+
+4. RESPONSIBILITIES
+  Table: Task | Ceco | [Builder] | Customer
+  Typical rows to check (fill only from the CPT or user input; otherwise mark "confirm"):
+  engineering and drawings, permits, site preparation, foundations/anchor bolts, delivery, unloading,
+  erection, doors/windows, insulation, final inspection.
+
+5. DECISIONS AND OPEN ITEMS
+  Table: Item | What's missing or conflicting | Why it matters | Owner | Question for the customer
+  Include: TBD values, blank fields, placeholder text such as "Enter a description here", missing loads,
+  conflicting specifications, missing exclusions, missing terms.
+
+6. YOUR BUILDING IN PLAIN LANGUAGE
+  For each building or option: 3 to 6 short notes that say what the owner gets and why it matters.
+  After each note show the original CPT wording and page in small print, for example:
+    "Designed for the wind conditions required by the local building code."
+    (CPT p.[n]: "[original wording]")
+  Do not add performance claims that are not in the CPT.
+
+7. ACCEPTANCE
+  Customer signature / name / title / date
+  [Builder] signature / name / title / date
+  One line restating the total and the proposal validity.
+
+======================================================================
+APPENDIX - TECHNICAL SPECIFICATIONS
+  Consolidate the CPT technical sections once (codes and loads, deflections, geometry, sidewalls and
+  endwalls, wall panels, accessories), labelled by building or option. Where values repeat, write
+  "Same as Building 1". Keep CPT page references.
+
+======================================================================
+OTHER OUTPUT FORMATS
+
+BUILDER REVIEW LIST (internal, before the customer sees anything)
+  Item | CPT page | Severity (Blocker / Confirm / Nice to have) | Owner | Suggested fix or question
+
+EXECUTIVE BRIEFING (for a president or CEO, one page)
+  1. The decision being asked for
+  2. Total investment and what it covers
+  3. Schedule
+  4. Top 3 risks or open decisions
+  5. Next steps and who owns them
+  Then offer a 5-slide outline:
+  Slide 1 Project and goal | Slide 2 Investment | Slide 3 Scope and responsibilities |
+  Slide 4 Decisions needed | Slide 5 Next steps
+
+CUSTOMER COVER EMAIL (under 150 words)
+  Purpose, total, the decisions needed (bulleted), the requested reply date, contact.

@@ -1,0 +1,57 @@
+RESEARCH FINDINGS - WHY THE PROPOSAL FORMAT EXISTS
+Knowledge file for the "Ceco Proposal Builder" Copilot agent.
+
+USE OF THIS FILE
+- Use these findings only to explain why the proposal is structured the way it is.
+- Repeat them as written. Do not add survey quotes, percentages, respondent counts or new findings.
+- Always show the source label next to a finding.
+
+SOURCE STATUS (read before presenting to executives)
+The survey screenshots (image (4) to image (7)) could not be machine-read when these findings were written.
+The findings below are therefore based on the sample Ceco Customer Proposal Report (CPT) dated 10/19/2026
+and the myPortal walkthrough. Before using them in front of executives, the account team should compare
+them with the survey screenshots and update the wording and source labels to match what the survey says.
+
+----------------------------------------------------------------------
+FINDING 1 - Source: sample CPT
+What we heard:    The sample proposal is 30 pages long, and the total first appears on page 19, after the
+                  repeated building specifications.
+Why it matters:   The customer has to dig for the number they care about most, and the builder ends up
+                  walking them through the document.
+What we improved: A short proposal with the total, delivery date and open decisions on page 1. Specs move
+                  to an appendix.
+
+----------------------------------------------------------------------
+FINDING 2 - Source: myPortal walkthrough
+What we heard:    Builders need to add their own scope (foundations, windows, doors, builder services) on
+                  top of the myPortal output, without changing it.
+Why it matters:   Otherwise the customer sees only the steel package, or the builder rebuilds the proposal
+                  by hand.
+What we improved: A builder-branded proposal with a separate "[Builder] provides" column and priced builder
+                  lines next to the unchanged Ceco total.
+
+----------------------------------------------------------------------
+FINDING 3 - Source: sample CPT
+What we heard:    What's excluded isn't stated. In the sample, Exclusions and the other financial sections
+                  still say "Enter a description here".
+Why it matters:   When exclusions aren't written down, the customer can assume items are included, and scope
+                  questions surface later.
+What we improved: Ceco scope, builder scope and a "Not included" list side by side, plus a responsibility
+                  matrix.
+
+----------------------------------------------------------------------
+FINDING 4 - Source: myPortal walkthrough + sample CPT
+What we heard:    Outputs are only as good as the inputs. The sample has open items nobody has flagged: no
+                  snow load shown, color TBD, credit terms TBD and conflicting coating specs.
+Why it matters:   Gaps get found late, or by the customer.
+What we improved: A builder review list of flagged items with owners, plus customer questions that are
+                  ready to send.
+
+----------------------------------------------------------------------
+FINDING 5 - Source: sample CPT
+What we heard:    The content is technical and repetitive. Loads and deflection limits repeat for each
+                  building, alongside shorthand like "Wind Exposure: 107.0000 psf".
+Why it matters:   The owner can't easily tell what they're buying, and turning it into customer language
+                  takes the builder time.
+What we improved: Plain-language notes with the original CPT wording and page alongside, and specs
+                  consolidated once in the appendix.
