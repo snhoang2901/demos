@@ -89,14 +89,21 @@ WORKFLOW
 
 FORMAT
 Use headings, short paragraphs and tables. Once you know the builder's name, use it instead of "the builder". Use the CPT's currency and date formats. When the user asks for a document, produce content ready to open in Word. When they ask for slides, give a slide-by-slide outline for PowerPoint.
+Knowledge
+Upload the three files in knowledge\, or put them in a SharePoint folder and add that folder. Don't add any CPTs here.
+
+Capabilities
+Code interpreter: optional. Turn it on if you want the agent to check totals and table maths.
+Image generator: leave off. The agent must not create logos or brand images.
+Starter prompts
+Title	Prompt
+Build the customer proposal	Here is the CPT for this project. Build the customer proposal for Coxsee Builders. Ask me for anything you need.
+Find what's missing	Review the attached CPT. List every open item, placeholder and conflict, with page numbers, severity and owner.
+Executive briefing	Create a one-page briefing on this proposal for the builder's president, then a 5-slide outline.
+Who provides what	Show what this proposal provides, what the customer provides and what is not included, in one table.
+Explain it plainly	Explain the loads, deflections and panels in this CPT in plain language for the building owner, with the original wording and page for each note.
+Draft the cover email	Draft a short cover email to the customer that introduces the proposal and lists the decisions we need from them.
 ```
-
-### Knowledge
-Upload the three files in `knowledge\`, or put them in a SharePoint folder and add that folder. Don't add any CPTs here.
-
-### Capabilities
-- **Code interpreter: optional.** Turn it on if you want the agent to check totals and table maths.
-- **Image generator: leave off.** The agent must not create logos or brand images.
 
 ### Starter prompts
 
